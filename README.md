@@ -30,7 +30,7 @@ Cloudflare OS rows come from the launch post at <https://blog.cloudflare.com/clo
 - [What you own](docs/what-you-own.md): where configuration, skills, memory, credentials and review live in each system, and the parts of Cloudflare OS worth copying.
 - [Setup check](docs/setup-check.md): five questions with a pass and a fail, answerable from your own infrastructure, plus the two commands on the Kortix side.
 
-Outside this repository, two pages go further into the decision: one on [what Cloudflare OS ships and where it deploys](https://opensourceaioperatingsystem.com/cloudflare-os-open-source-ai-operating-system), one on [the open-source AI Operating System as a repository](https://opensourceaioperatingsystem.com/open-source-ai-operating-system-github), and one on [what the agent-OS name means across the field](https://opensourceaioperatingsystem.com/agent-os).
+Outside this repository, two pages go further into the decision: one on [what Cloudflare OS ships and where it deploys](https://opensourceaioperatingsystem.com/cloudflare-os-open-source-ai-operating-system), one on [the open-source AI Operating System as a repository](https://opensourceaioperatingsystem.com/open-source-ai-operating-system-github), one on [what the agent-OS name means across the field](https://opensourceaioperatingsystem.com/agent-os), and — when Cloudflare OS is the baseline rather than the candidate — [the Cloudflare OS alternative page](https://opensourceaioperatingsystem.com/cloudflare-os-alternative).
 
 ## Kortix on GitHub
 
